@@ -17,7 +17,7 @@ To run the application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/kentobias132/currency-converter.git
    ```
 
 2. Install dependencies:
